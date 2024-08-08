@@ -26,8 +26,9 @@
 
 ลองเขียน [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-[] Authentication
-[] Authorization
+- [x] Authentication
+- [x] Authorization
+- [x] CRUD
 
 ## Installation
 
