@@ -24,10 +24,9 @@
 
 ## Description
 
-ลองเขียน [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+ลองเขียน [Nest](https://github.com/nestjs/nest) เชื่อมกับ [postgres](https://www.postgresql.org/) กัน
 
-- [x] Authentication
-- [x] Authorization
+- [x] Authentication and Authorization
 - [x] CRUD
 
 ## Installation
